@@ -7,7 +7,7 @@ AI-powered multi-floor mall parking management system using Python, OpenCV, and 
 
 ### Copyright
 
-Copyright © 2026 [Full names of all agreed copyright holders].
+Copyright © 2026 [Piyush Kurseja].
 
 All rights to the original project materials are subject to the terms of the AGPL-3.0. The licence permits users to access, use, study, modify and redistribute the software, subject to its terms and conditions.
 
